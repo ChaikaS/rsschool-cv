@@ -1,0 +1,1 @@
+https://github.com/ChaikaS/rsschool-cv.git
