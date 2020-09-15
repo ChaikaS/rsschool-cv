@@ -1,1 +1,1 @@
-https://github.com/ChaikaS/rsschool-cv.cv
+https://chaikas.github.io/rsschool-cv/cv
