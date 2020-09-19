@@ -1,0 +1,52 @@
+.name {
+    margin: 43px 50px 43px 483px;
+    border: 1px solid black;
+    padding: 15px;
+    height: 40px;
+    width: 360px;
+    font-size: 35px;
+    font-family: 'Roboto', monospace;
+    font-weight: 900;
+    font-display: swap;
+}
+.prof {
+    margin: -24px 39% 41px 39%;
+    font-family: 'Roboto', monospace;
+    font-weight: 900;
+    font-display: swap;
+}
+.photo img{
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;.
+}
+.h3 {
+    font-family: 'Roboto', ui-monospace;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+}
+.span {
+    font-family: 'Roboto', ui-monospace;
+    font-size: 19px;
+    margin: 10px 10px 10px 10px;
+    font-weight: bold;
+
+}
+.p {
+    font-family: 'Roboto', system-ui;
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+    font-weight: lighter;
+}
+main {
+    display: flex;
+    text-align: right;
+    margin-top: 50px;
+}
+.divMain{
+    height: 87vh;
+    width: 50%;
+    margin-right: 30px;
+}
+
