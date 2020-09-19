@@ -1,1 +1,1 @@
-https://github.com/ChaikaS/rsschool-cv/blob/gh-pages/index.html
+https://ChaikaS.github.io/rsschool-cv/
