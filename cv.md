@@ -63,3 +63,7 @@ console.log(groupBy(testArray, "universe"));
   + Master of construction and installation works
 * #### RS.School
 * #### Internal courses of Epam Systems
+
+# Languages
+* #### Russian - native speaker.
+* #### English - A2+ (B1 in process…)
