@@ -57,3 +57,9 @@ const groupBy = function (arr, key) {
 };
 console.log(groupBy(testArray, "universe"));
 ```
+
+# Education
+* #### Belarusian State University of Transport
+  + Master of construction and installation works
+* #### RS.School
+* #### Internal courses of Epam Systems
